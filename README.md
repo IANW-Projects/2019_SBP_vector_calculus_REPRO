@@ -1,5 +1,8 @@
 # Discrete Vector Calculus and Helmholtz Hodge Decomposition for Classical Finite Difference Summation by Parts Operators
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-success.svg)](https://opensource.org/licenses/MIT)
+[![DOI](https://zenodo.org/badge/203920739.svg)](https://zenodo.org/badge/latestdoi/203920739)
+
 This repository contains some code used in the article
 
 ```
