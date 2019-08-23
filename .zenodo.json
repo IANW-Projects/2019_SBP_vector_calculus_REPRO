@@ -1,7 +1,7 @@
 {
     "description": "Basic vector calculus theorems (existence of scalar and vector  potentials, Helmholtz Hodge decomposition) in the context of classical finite difference SBP operators",
     "license": "mit-license",
-    "title": "ranocha/2019_SBP_vector_calculus_REPRO",
+    "title": "IANW-Projects/2019_SBP_vector_calculus_REPRO",
     "version": "v1.0.0",
     "upload_type": "software",
     "publication_date": "2019-08-23",
