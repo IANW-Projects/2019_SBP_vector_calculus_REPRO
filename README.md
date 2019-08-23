@@ -32,8 +32,8 @@ If you use the implementations provided here, please cite this repository as
 
 ## Brief Description
 
-This repository contains two jupyter notebooks containing
-[Julia](https://julialang.org/) code.
+This repository contains two [Jupyter](https://jupyter.org/) notebooks
+containing [Julia](https://julialang.org/) code.
 - `notebooks/grid_oscillations__used.ipynb`
   Here, grid oscillations associated to nullspace consistent
   first derivative summation by parts (SBP) operators are visualised.
