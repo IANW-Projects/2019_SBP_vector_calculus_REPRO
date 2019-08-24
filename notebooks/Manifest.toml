@@ -38,9 +38,9 @@ version = "0.1.0"
 
 [[BandedMatrices]]
 deps = ["FillArrays", "LazyArrays", "LinearAlgebra", "MatrixFactorizations", "Random", "SparseArrays"]
-git-tree-sha1 = "414a1b7e37d613b8fb7f0e5732499cd30dabfa99"
+git-tree-sha1 = "cdda54b29a1c52fa33defc0c61e3b8bb61f73d15"
 uuid = "aae01518-5342-5314-be14-df237901396f"
-version = "0.10.0"
+version = "0.10.1"
 
 [[Base64]]
 uuid = "2a0f44e3-6c83-55bd-87e4-b1978d98bd5f"
@@ -180,9 +180,9 @@ version = "0.0.10"
 
 [[Distances]]
 deps = ["LinearAlgebra", "Statistics"]
-git-tree-sha1 = "44bd29b50552dfd0a0b674b925de2719f3b9bb0b"
+git-tree-sha1 = "23717536c81b63e250f682b0e0933769eecd1411"
 uuid = "b4f34e82-e78d-54a5-968a-f98e89d6e8f7"
-version = "0.8.1"
+version = "0.8.2"
 
 [[Distributed]]
 deps = ["Random", "Serialization", "Sockets"]
@@ -299,16 +299,16 @@ uuid = "83e8ac13-25f8-5344-8a64-a9f2b223428f"
 version = "0.5.0"
 
 [[Interact]]
-deps = ["CSSUtil", "InteractBase", "JSON", "Knockout", "Observables", "OrderedCollections", "Reexport", "Test", "WebIO", "Widgets"]
-git-tree-sha1 = "f6531bc554990a6659966afcb8f05543c032068b"
+deps = ["CSSUtil", "InteractBase", "JSON", "Knockout", "Observables", "OrderedCollections", "Reexport", "WebIO", "Widgets"]
+git-tree-sha1 = "381c584142ac744bcc23af64bff3e3dc44d7f632"
 uuid = "c601a237-2ae4-5e1e-952c-7a85b0c7eef1"
-version = "0.10.2"
+version = "0.10.3"
 
 [[InteractBase]]
 deps = ["Base64", "CSSUtil", "Colors", "Dates", "JSExpr", "JSON", "Knockout", "Observables", "OrderedCollections", "Random", "WebIO", "Widgets"]
-git-tree-sha1 = "752e330aef74a8a01968cce0a361a4525b944471"
+git-tree-sha1 = "4528a536425453c9658ad00cf097c979cc0fa03f"
 uuid = "d3863d7c-f0c8-5437-a7b4-3ae773c01009"
-version = "0.10.2"
+version = "0.10.3"
 
 [[InteractiveUtils]]
 deps = ["Markdown"]
@@ -665,10 +665,10 @@ deps = ["Libdl", "LinearAlgebra", "Serialization", "SparseArrays"]
 uuid = "4607b0f0-06f3-5cda-b6b1-a6196a1729e9"
 
 [[SummationByPartsOperators]]
-deps = ["ArgCheck", "DiffEqBase", "DiffEqCallbacks", "FFTW", "LinearAlgebra", "Parameters", "PolynomialBases", "Reexport", "Requires", "SparseArrays", "StaticArrays", "Test", "Unrolled"]
-git-tree-sha1 = "7adb46ab3e8326090444ae7594ad741360abf612"
+deps = ["ArgCheck", "DiffEqBase", "DiffEqCallbacks", "FFTW", "LinearAlgebra", "Parameters", "PolynomialBases", "Reexport", "Requires", "SparseArrays", "StaticArrays", "Unrolled"]
+git-tree-sha1 = "67164ca2b28bfd7ffdaadfa0c66da75334707f38"
 uuid = "9f78cca6-572e-554e-b819-917d2f1cf240"
-version = "0.1.0"
+version = "0.1.1"
 
 [[TableTraits]]
 deps = ["IteratorInterfaceExtensions"]
