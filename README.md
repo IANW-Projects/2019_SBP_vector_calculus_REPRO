@@ -3,7 +3,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-success.svg)](https://opensource.org/licenses/MIT)
 [![DOI](https://zenodo.org/badge/203920739.svg)](https://zenodo.org/badge/latestdoi/203920739)
 
-This repository contains some code used in the article
+This repository contains some code used in the following article
+which is available on [arXiv](https://arxiv.org/abs/1908.08732).
 ```
 @online{ranocha2019discrete,
   title={Discrete Vector Calculus and {H}elmholtz {H}odge Decomposition for
@@ -11,9 +12,10 @@ This repository contains some code used in the article
   author={Ranocha, Hendrik and Ostaszewski, Katharina and Heinisch, Philip},
   year={2019},
   month={08},
-  eprint={1908.?????TODO},
+  eprint={1908.08732},
   eprinttype={arxiv},
   eprintclass={math.NA}
+}
 ```
 
 If you find these results useful, please cite the article mentioned above.
