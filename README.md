@@ -6,15 +6,19 @@
 This repository contains some code used in the following article
 which is available on [arXiv](https://arxiv.org/abs/1908.08732).
 ```
-@online{ranocha2019discrete,
-  title={Discrete Vector Calculus and {H}elmholtz {H}odge Decomposition for
-         Classical Finite Difference Summation by Parts Operators},
+@article{ranocha2020discrete,
+  title={Discrete Vector Calculus and {H}elmholtz {H}odge Decomposition
+         for Classical Finite Difference Summation by Parts Operators},
   author={Ranocha, Hendrik and Ostaszewski, Katharina and Heinisch, Philip},
-  year={2019},
-  month={08},
+  journal={Communications on Applied Mathematics and Computation},
+  volume={2},
+  pages={581--611},
+  year={2020},
+  month={02},
   eprint={1908.08732},
   eprinttype={arxiv},
-  eprintclass={math.NA}
+  eprintclass={math.NA},
+  doi={10.1007/s42967-019-00057-2}
 }
 ```
 
