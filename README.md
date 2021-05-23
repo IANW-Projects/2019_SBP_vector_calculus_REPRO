@@ -32,7 +32,8 @@ If you use the implementations provided here, please cite this repository as
   author={Ranocha, Hendrik and Ostaszewski, Katharina and Heinisch, Philip},
   year={2019},
   month={08},
-  howpublished={\url{https://github.com/IANW-Projects/2019_SBP_vector_calculus_REPRO}}
+  howpublished={\url{https://github.com/IANW-Projects/2019_SBP_vector_calculus_REPRO}},
+  doi={10.5281/zenodo.3375170}
 }
 ```
 
